@@ -1,0 +1,13 @@
+build/
+bin/
+
+*.class
+
+######################
+# Eclipse
+######################
+ 
+.project
+.classpath
+.settings/
+.loadpath
